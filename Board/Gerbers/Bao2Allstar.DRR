@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Bao2Allstar.PcbDoc   3/24/2023  7:44:38 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Bao2Allstar.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             12        PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T3      41mil (1.041mm)                                           Round             40        PTH        0.00inch (0.00mm)
+T4      43mil (1.092mm)                                           Round             15        PTH        0.00inch (0.00mm)
+T5      47mil (1.2mm)                                             Round             15        NPTH       0.00inch (0.00mm)
+T6      63mil (1.6mm)                                             Round             4         NPTH       0.00inch (0.00mm)
+T7      108mil (2.75mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              96
+
+Total Processing Time (hh:mm:ss) : 00:00:00
